@@ -1,0 +1,32 @@
+body{
+    /* width: 100vw;
+    height: 200vh; */
+    background-image: linear-gradient(to bottom, rgb(101, 127, 137), rgb(52, 73, 82));
+}
+.product{
+    background-image: linear-gradient(to bottom, rgb(101, 127, 137), rgb(52, 73, 82));
+}
+.crdfp{
+    background-color:rgb(101, 127, 137);
+    color: white;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.sp{
+    margin: 2vh 0 3vh 45%;
+}
+.section{
+    /* background-color: rgb(25 20 22 / 65%); */
+    justify-content: center;
+}
+.topbar{
+    height:15vh;
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    align-items:center;
+    background-color:rgb(52, 73, 82);
+}
+.cag{
+    margin-left: 75px;
+}

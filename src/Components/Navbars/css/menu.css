@@ -1,0 +1,16 @@
+.menu{
+    background-color: rgb(75, 108, 121);
+}
+.nav1{
+    font-weight: bolder;
+    margin-left: 4vw;
+      font-family: "Trebuchet MS", Helvetica, sans-serif;
+      
+  }
+  .nav2{
+    min-width: 100vw;
+  }
+  
+  #gq{
+    color: white;
+   }

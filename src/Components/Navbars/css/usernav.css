@@ -1,0 +1,27 @@
+.nav2{
+    height: 13vh;
+    background-color: rgb(52, 73, 82);
+}
+.search1{
+    background-color:#f1f1f1;
+    border:none;
+    
+    width:80px;
+}
+.usersearch{
+    width: 500px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+.loginbtn{
+    margin-left:2vh;
+    background-color:rgb(252, 252, 29);
+    color:black; 
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
+    width: 100px;
+}
+.logoutbtn{
+    margin-left:2vw;
+    background-color:rgb(252, 252, 29);
+    border-radius:5px;
+    border: none;
+}

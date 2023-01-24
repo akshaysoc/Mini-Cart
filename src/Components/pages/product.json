@@ -1,0 +1,343 @@
+{"Products": [
+    {
+      "id": 1,
+      "title": "iPhone 14",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://d1rlzxa98cyc61.cloudfront.net/catalog/product/cache/1801c418208f9607a371e61f8d9184d9/1/8/184967_2022.jpg",
+      "images": [
+        "...",
+        "...",
+        "..."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Samsung S22",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Samsung",
+      "category": "smartphones",
+      "thumbnail": "https://m.media-amazon.com/images/I/71CeH-hg+6L._SX679_.jpg",
+      "images": [
+        "...",
+        "...",
+        "..."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Relme 10Pro",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Realme",
+      "category": "smartphones",
+      "thumbnail": "https://www.assuredzone.com/wp-content/uploads/2022/11/Realme-10-Pro.jpg",
+      "images": [
+        "...",
+        "...",
+        "..."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Motrola Edge30",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Motorola",
+      "category": "smartphones",
+      "thumbnail": "https://fdn.gsmarena.com/imgroot/news/22/04/motorola-edge-30-euro-pricing-leaks/popup/-x400/gsmarena_001.jpg",
+      "images": [
+        "...",
+        "...",
+        "..."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Casul Shirts",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "zudio",
+      "category": "men",
+      "thumbnail": "https://m.media-amazon.com/images/I/71XpfdVVJFL._UL1200_.jpg",
+      "images": [
+        "...",
+        "...",
+        "..."
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Formal Shirts",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "zudio",
+      "category": "men",
+      "thumbnail": "https://m.media-amazon.com/images/I/61Flc4YwiCL._UX385_.jpg",
+      "images": [
+        "...",
+        "...",
+        "..."
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Jackets",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "zudio",
+      "category": "men",
+      "thumbnail": "https://4.imimg.com/data4/RU/VC/MY-11853389/men-s-jackets-500x500.jpg",
+      "images": [
+        "...",
+        "...",
+        "..."
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Footwares",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "zudio",
+      "category": "men",
+      "thumbnail": "https://cpimg.tistatic.com/06182979/b/5/Men-SANDALS-101.jpeg",
+      "images": [
+        "...",
+        "...",
+        "..."
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Western wear",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "zudio",
+      "category": "wemen",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0637/4834/1981/products/blue-casual-wear-embroidered-rayon-top-peachmode-1_large.jpg?v=1669053460",
+      "images": [
+        "...",
+        "...",
+        "..."
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Ethnic Wear",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "zudio",
+      "category": "wemen",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/2542/7564/products/19_e08e99c1-b15c-4fef-a9e7-a7d983f95045.jpg?v=1673268812",
+      "images": [
+        "...",
+        "...",
+        "..."
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Jewellery",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Motorola",
+      "category": "smartphones",
+      "thumbnail": "https://cdn.shopclues.com/images1/thumbnails/115837/320/320/152890053-115837182-1640345452.jpg",
+      "images": [
+        "...",
+        "...",
+        "..."
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Watches",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Motorola",
+      "category": "smartphones",
+      "thumbnail": "https://rukminim1.flixcart.com/image/832/832/xif0q/watch/k/y/p/1-asmodeus-gold-21st-century-women-watch-rose-gold-marclex-women-original-imagjufxwzewrx3u.jpeg?q=70",
+      "images": [
+        "...",
+        "...",
+        "..."
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Smart TVs",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "sony",
+      "category": "Appliences",
+      "thumbnail": "https://i0.wp.com/dyanora.in/wp-content/uploads/2021/02/32_front_01.jpg?fit=1500%2C1500&ssl=1",
+      "images": [
+        "...",
+        "...",
+        "..."
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Speakers",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "sony",
+      "category": "Appliences",
+      "thumbnail": "https://cdnprod.mafretailproxy.com/sys-master-root/h57/hd5/13588728381470/6294015632927_main_480Wx480H",
+      "images": [
+        "...",
+        "...",
+        "..."
+      ]
+    },
+    {
+      "id": 15,
+      "title": "refrigerators",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "sony",
+      "category": "Appliences",
+      "thumbnail": "https://m.media-amazon.com/images/I/71-XsJoSe1L._SX466_.jpg",
+      "images": [
+        "...",
+        "...",
+        "..."
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Washing Machine",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "sony",
+      "category": "Appliences",
+      "thumbnail": "https://m.media-amazon.com/images/I/81d5542EVsL._SL1500_.jpg",
+      "images": [
+        "...",
+        "...",
+        "..."
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Laptops",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "hp",
+      "category": "Electronics",
+      "thumbnail": "https://images-cdn.ubuy.co.in/633ff94e6b2e885e2a34be15-hp-14-pc-laptop-intel-celeron-n4000.jpg",
+      "images": [
+        "...",
+        "...",
+        "..."
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Desktop & PCs",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "hp",
+      "category": "Electronics",
+      "thumbnail": "https://images-cdn.ubuy.co.id/634e33ffa4b65b5b226323bb-vibox-i-8-gaming-pc-24-monitor.jpg",
+      "images": [
+        "...",
+        "...",
+        "..."
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Cameras",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "sony",
+      "category": "Electronics",
+      "thumbnail": "https://m.media-amazon.com/images/I/81+Xi-9eGpS._SL1500_.jpg",
+      "images": [
+        "...",
+        "...",
+        "..."
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Mobile Accessories",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "Electronics",
+      "thumbnail": "https://m.media-amazon.com/images/I/51OeTCeAIgL._SL1000_.jpg",
+      "images": [
+        "...",
+        "...",
+        "..."
+      ]
+    }
+  ]
+}

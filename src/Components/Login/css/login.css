@@ -1,0 +1,50 @@
+.backgroundcl{
+    background-image: linear-gradient(to top, rgb(101, 127, 137), rgb(52, 73, 82));
+    height:100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.crd{
+    border: none;
+    /* border-radius: 25px; */
+    width:30rem;
+    /* height: 50vh;  */
+}
+.crdh{
+    background-color:rgb(52, 73, 82);
+    color:white;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    text-align: center;
+    height: 18vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.crdb{
+    background-color: rgb(75, 108, 121);
+    color:white;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    height: 28vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.cb{
+    width:400px;
+}
+
+.crdf{
+    background-color:rgb(52, 73, 82);
+    height: 15vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.bt{
+    width: 200px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
