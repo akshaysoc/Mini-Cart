@@ -16,6 +16,7 @@ function LandingPage(){
        <Navbar3 />
        <Navbar2 />
        <Carousel />
+       <h1 style={{color:'white',marginLeft:'37vw',fontFamily:' "Trebuchet MS", Helvetica, sans-serif'}}>Welcome to Mini Cart!</h1>
        <Product />
        <Footer />
        

@@ -37,14 +37,43 @@ function OffCanvasExample({ name, ...props }) {
   // const navigate = useNavigate();
   const [prod, setProd] = useState([]);
 
+  
+const [currentPage, setCurrentPage] = useState(1);
+const [postsPerPage, setPostsPerPage] = useState(20);
+// const [isTrue,setIsTrue] = useState("false");
+// const [isClick,setIsClick] = useState("false");
+
+
+
   useEffect(() => {
-    fetch("https://dummyjson.com/products?limit=68")
+    fetch("https://dummyjson.com/products?limit=100")
       .then((response) => response.json())
       .then((data) => {
         setProd(data.products);
         console.log(data.products);
       });
   }, []);
+  
+  
+function handleNext() { 
+  if(currentPage<=5){
+  setCurrentPage(currentPage + 1)}
+   else{
+    //  setIsTrue("true");
+  }}
+     
+function handlePrevious() {
+   if(currentPage>=1){
+    setCurrentPage(currentPage - 1)
+  }else{
+    // setIsClick("true");
+  }}
+
+
+  const lastIndex = currentPage * postsPerPage;
+  const firstIndex = lastIndex - postsPerPage;
+  const currentProducts = prod.slice(firstIndex, lastIndex)
+
 
   useEffect(()=>{
     fetch('https://dummyjson.com/products/categories')
@@ -172,7 +201,7 @@ function OffCanvasExample({ name, ...props }) {
      
       <div className="container alp">
         <div className="row text-center" style={{marginLeft:'4vw'}}>
-          {prod.map((val, key) => {
+          {currentProducts.map((val, key) => {
             return (
               <Card style={{ width: '15rem',marginLeft:'3vw', marginBottom:'20px'}} key={key}>
               <Card.Img variant="top" src={val.thumbnail} style={{height:'50%'}}/>
@@ -188,6 +217,8 @@ function OffCanvasExample({ name, ...props }) {
           })}
         </div>
       </div>
+      <button onClick={handlePrevious} className="btn ms-5 mb-3" style={{ width:'7vw',backgroundColor:'rgb(252, 252, 29'}}>Previous</button>
+      <button onClick={handleNext} className="btn mb-3" style={{marginLeft:'77%', width:'7vw',backgroundColor:'rgb(252, 252, 29'}}>Next</button>
       <Footer />
     </>
   );

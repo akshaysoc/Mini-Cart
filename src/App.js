@@ -11,6 +11,7 @@ import ProductDetail from './Components/pages/DetailViewProduct';
 import Cart from './Components/pages/Cart';
 import Check from './Components/Checkout/Checkout';
 
+
 const router = createBrowserRouter([
   {
     path: '/home',
@@ -41,13 +42,14 @@ const router = createBrowserRouter([
     element: <Cart />
   },
   {
-    path: '/checkout/:id',
+    path: '/checkout',
     element: <Check />
   },
   {
     path: '/forgot',
     element: <Forgot />
   },
+  
 ])
 
 function App() {

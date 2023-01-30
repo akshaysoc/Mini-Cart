@@ -28,7 +28,7 @@ function Usernavbar() {
   return (
     <Navbar variant="dark" className='nav2  '>
       <Container fluid style={{margin:'0 6vw 0 25vw'}}>
-       <Nav.Link href="/home">
+       <Nav.Link href="/userhome">
             <img
               src={logo}
               width="100"

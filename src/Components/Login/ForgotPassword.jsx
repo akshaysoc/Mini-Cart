@@ -86,7 +86,7 @@ function ForgotPassword(){
                     </div>
                 </div>
                 <div className="card-footer crdf">
-                        <button type="submit" className="btn btn-success  bt" >Save</button> <br/>
+                        <button type="submit" className="btn btn-success  bt" >Reset</button> <br/>
                         <Link className="btn btn-danger ms-2  bt" to={'/login'}>Cancel</Link>
                 </div>
                 </div>
